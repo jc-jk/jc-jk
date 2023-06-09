@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jc-jk
+- 👋 Hi, I’m @james    @jc-jk
 - 👀 I’m interested in coding.football
 - 🌱 I’m currently learning C++, HTML languages
 - 💞️ I’m looking to collaborate on creating a c++ trade project
